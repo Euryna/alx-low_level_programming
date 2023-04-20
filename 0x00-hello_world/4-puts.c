@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- * main - puts 
+ * puts command script
  */
 int main(void)
 {
