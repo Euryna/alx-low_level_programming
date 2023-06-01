@@ -1,1 +1,1 @@
-This is a readme file for first C language programming project
+README file for 0x0A task regarding argc argv
